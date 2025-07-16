@@ -78,11 +78,7 @@ AI Chatbot/
 
 
 
-yaml
 
-Copy
-
-Edit
 
 
 
